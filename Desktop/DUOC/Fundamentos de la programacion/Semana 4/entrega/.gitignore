@@ -1,0 +1,18 @@
+# Ignorar archivos y directorios del sistema
+**/AppData/
+**/Cookies/
+**/Documents/
+**/Downloads/
+**/Favorites/
+**/OneDrive/
+**/Pictures/
+**/Saved Games/
+**/SynologyDrive/
+**/Videos/
+**/3D Objects/
+**/Contacts/
+**/ntuser.dat*
+**/NTUSER.DAT*
+**/pseint/
+.vscode/
+.gitconfig
